@@ -1,0 +1,17 @@
+[
+  {
+    "id": "AC-501",
+    "priority": 1,
+    "note": "Synthetic account note 1"
+  },
+  {
+    "id": "AC-502",
+    "priority": 2,
+    "note": "Synthetic account note 2"
+  },
+  {
+    "id": "AC-503",
+    "priority": 3,
+    "note": "Synthetic account note 3"
+  }
+]

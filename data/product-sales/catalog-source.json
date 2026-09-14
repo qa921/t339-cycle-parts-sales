@@ -1,0 +1,27 @@
+{
+  "CY-001": {
+    "vendor": "Spoke Works",
+    "name": "Tube",
+    "size": "700x25"
+  },
+  "CY-002": {
+    "vendor": "Spoke Works",
+    "name": "Brake Pad",
+    "size": "road pair"
+  },
+  "CY-003": {
+    "vendor": "Spoke Works",
+    "name": "Chain",
+    "size": "11 speed"
+  },
+  "CY-004": {
+    "vendor": "Spoke Works",
+    "name": "Bottle Cage",
+    "size": "standard"
+  },
+  "CY-005": {
+    "vendor": "Spoke Works",
+    "name": "Repair Kit",
+    "size": "8 piece"
+  }
+}

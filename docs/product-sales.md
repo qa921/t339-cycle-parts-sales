@@ -1,0 +1,1 @@
+Current fixture uses Monday-start synthetic weeks. The contributor task converts retained records to Sunday-start weeks, preserves bundle rollups, adds SKU size metadata, and verifies the exact deployed commit.
