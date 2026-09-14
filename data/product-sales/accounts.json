@@ -1,17 +1,1 @@
-[
-  {
-    "id": "AC-501",
-    "priority": 1,
-    "note": "Synthetic account note 1"
-  },
-  {
-    "id": "AC-502",
-    "priority": 2,
-    "note": "Synthetic account note 2"
-  },
-  {
-    "id": "AC-503",
-    "priority": 3,
-    "note": "Synthetic account note 3"
-  }
-]
+{"accounts":[{"CustomerID":"16274","linked_source_rows":[2204,2206,2207,2209,2210,2211,2212,2213,2214,2215,2217,2221,2222,2223,2224,2226,2227,2231,2235],"notes":[],"notes_status":"no account notes exist in UCI source"},{"CustomerID":"16539","linked_source_rows":[2280,2281,2282,2283,2284,2285,2286,2287,2288,2289,2290],"notes":[],"notes_status":"no account notes exist in UCI source"},{"CustomerID":"18041","linked_source_rows":[3538,3565,3566,3567,3578,3579,3583,3584,3597,3601],"notes":[],"notes_status":"no account notes exist in UCI source"}],"provenance":"UCI Online Retail CustomerID grouping; no notes invented"}
